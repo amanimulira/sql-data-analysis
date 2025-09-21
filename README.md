@@ -7,7 +7,7 @@ EDA is the foundational stage where you inspect and understand raw data before d
 
   - Database Exploration
 
-This involves querying and understanding the structure of the data source (e.g., tables, schemas, relationships in SQL databases). It's important becasue it ensures you grasp the data's origin and integrity, avoiding assumptions that could lead to falwed analyses.
+    - This involves querying and understanding the structure of the data source (e.g., tables, schemas, relationships in SQL databases). It's important becasue it ensures you grasp the data's origin and integrity, avoiding assumptions that could lead to falwed analyses.
   
   - Dimensions Exploration
   
