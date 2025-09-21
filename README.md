@@ -1,7 +1,8 @@
 # Data Analytics on Test Data ( ERP + CRM Data )
 
 
-<img width="801" height="783" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/9b9330c2-489a-4b43-8cae-f994bd9fe2a2" />
+<img width="867" height="790" alt="Pasted Graphic 7" src="https://github.com/user-attachments/assets/53fb8a85-cb47-4789-b3a7-3bf3dd139006" />
+
 
 
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/ffc7daa2-4d69-47f2-a4c1-53b125f00a57" />
