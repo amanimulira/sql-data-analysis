@@ -1,7 +1,6 @@
 # Data Analytics on Test Data ( ERP + CRM Data )
 
 
-<img width="867" height="790" alt="Pasted Graphic 7" src="https://github.com/user-attachments/assets/53fb8a85-cb47-4789-b3a7-3bf3dd139006" />
 
 
 
@@ -63,3 +62,7 @@ Building on EDA, Advanced Analytics applies more sophisticated techniques to ext
   - **Reporting**
 
     - This final step compiles insights into dashboards, reports, or presentations. It's important for translating complex analyses into actionable, accessible formats for non-technical stakeholders.
+   
+## Result - More Effective Reporting
+
+<img width="867" height="790" alt="Pasted Graphic 7" src="https://github.com/user-attachments/assets/53fb8a85-cb47-4789-b3a7-3bf3dd139006" />
